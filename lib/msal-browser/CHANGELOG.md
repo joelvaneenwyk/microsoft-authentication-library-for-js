@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-browser
 
-This log was last generated on Tue, 07 Nov 2023 00:01:50 GMT and should not be manually modified.
+This log was last generated on Fri, 10 Nov 2023 22:50:14 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 3.5.1
+
+Fri, 10 Nov 2023 22:50:14 GMT
+
+### Patches
+
+- Nested App Auth minor fixes (#6672) (dasau@microsoft.com)
 
 ## 3.5.0
 

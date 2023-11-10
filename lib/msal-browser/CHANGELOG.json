@@ -2,6 +2,21 @@
   "name": "@azure/msal-browser",
   "entries": [
     {
+      "date": "Fri, 10 Nov 2023 22:50:14 GMT",
+      "version": "3.5.1",
+      "tag": "@azure/msal-browser_v3.5.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "dasau@microsoft.com",
+            "package": "@azure/msal-browser",
+            "commit": "6ac9a88f28c119362be6d3f981b0503b2297f451",
+            "comment": "Nested App Auth minor fixes (#6672)"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 07 Nov 2023 00:01:50 GMT",
       "version": "3.5.0",
       "tag": "@azure/msal-browser_v3.5.0",
