@@ -1,28 +1,7 @@
 {
   "name": "microsoft-authentication-libraries-for-js",
   "private": true,
-  "devDependencies": {
-    "@angular/compiler": "^15.2.4",
-    "@babel/core": "^7.7.2",
-    "@babel/plugin-proposal-class-properties": "^7.7.0",
-    "@babel/plugin-proposal-object-rest-spread": "^7.6.2",
-    "@babel/preset-env": "^7.7.1",
-    "@babel/preset-typescript": "^7.7.2",
-    "@babel/register": "^7.13.16",
-    "@octokit/graphql": "^4.6.0",
-    "@octokit/rest": "^18.2.1",
-    "beachball": "^2.22.4",
-    "dotenv": "^8.2.0",
-    "eslint": "^7.8.1",
-    "gh-pages": "^3.1.0",
-    "npm-run-all": "^4.1.5",
-    "prettier": "2.8.7",
-    "rimraf": "^3.0.0",
-    "semver": "^7.3.4",
-    "ts-node": "^8.10.2",
-    "typedoc": "^0.24.0",
-    "typescript": "^4.9.5"
-  },
+  "packageManager": "yarn@4.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js.git"
@@ -51,5 +30,28 @@
     "samples/msal-angular-v3-samples/*",
     "samples/msal-react-samples/*",
     "samples/msal-node-samples/*"
-  ]
+  ],
+  "devDependencies": {
+    "@angular/compiler": "^15.2.4",
+    "@babel/core": "^7.7.2",
+    "@babel/plugin-proposal-class-properties": "^7.7.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.6.2",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-typescript": "^7.7.2",
+    "@babel/register": "^7.13.16",
+    "@octokit/graphql": "^4.6.0",
+    "@octokit/rest": "^18.2.1",
+    "@yarnpkg/sdks": "^3.0.0",
+    "beachball": "^2.22.4",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.8.1",
+    "gh-pages": "^3.1.0",
+    "npm-run-all": "^4.1.5",
+    "prettier": "2.8.7",
+    "rimraf": "^3.0.0",
+    "semver": "^7.3.4",
+    "ts-node": "^8.10.2",
+    "typedoc": "^0.24.0",
+    "typescript": "^4.9.5"
+  }
 }

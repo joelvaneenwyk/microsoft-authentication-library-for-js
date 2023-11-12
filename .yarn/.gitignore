@@ -1,0 +1,8 @@
+#
+# Ignore generated Yarn files
+#
+
+!releases/
+unplugged/
+
+install-state.gz
