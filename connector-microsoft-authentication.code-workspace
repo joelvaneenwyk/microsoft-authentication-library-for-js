@@ -1,0 +1,241 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "eslint-config-msal",
+			"path": "shared-configs/eslint-config-msal"
+		},
+		{
+			"name": "msal-common",
+			"path": "lib/msal-common"
+		},
+		{
+			"name": "msal-browser",
+			"path": "lib/msal-browser"
+		},
+		{
+			"name": "msal-node",
+			"path": "lib/msal-node"
+		},
+		{
+			"name": "msal-angular",
+			"path": "lib/msal-angular"
+		},
+		{
+			"name": "msal-react",
+			"path": "lib/msal-react"
+		},
+		{
+			"name": "msal-node-extensions",
+			"path": "extensions/msal-node-extensions"
+		},
+		{
+			"name": "e2eTestUtils",
+			"path": "samples/e2eTestUtils"
+		},
+		{
+			"name": "VanillaJSTestApp2.0",
+			"path": "samples/msal-browser-samples/VanillaJSTestApp2.0"
+		},
+		{
+			"name": "TypescriptTestApp2.0",
+			"path": "samples/msal-browser-samples/TypescriptTestApp2.0"
+		},
+		{
+			"name": "OfficeAddin",
+			"path": "samples/msal-browser-samples/OfficeAddin"
+		},
+		{
+			"name": "TestingSample",
+			"path": "samples/msal-browser-samples/TestingSample"
+		},
+		{
+			"name": "vue3-sample-app",
+			"path": "samples/msal-browser-samples/vue3-sample-app"
+		},
+		{
+			"name": "HybridSample",
+			"path": "samples/msal-browser-samples/HybridSample"
+		},
+		{
+			"name": "angular15-sample-app",
+			"path": "samples/msal-angular-v3-samples/angular15-sample-app"
+		},
+		{
+			"name": "angular-standalone-sample",
+			"path": "samples/msal-angular-v3-samples/angular-standalone-sample"
+		},
+		{
+			"name": "angular-b2c-sample-app",
+			"path": "samples/msal-angular-v3-samples/angular-b2c-sample-app"
+		},
+		{
+			"name": "angular16-sample-app",
+			"path": "samples/msal-angular-v3-samples/angular16-sample-app"
+		},
+		{
+			"name": "gatsby-sample",
+			"path": "samples/msal-react-samples/gatsby-sample"
+		},
+		{
+			"name": "typescript-sample",
+			"path": "samples/msal-react-samples/typescript-sample"
+		},
+		{
+			"name": "react-router-sample",
+			"path": "samples/msal-react-samples/react-router-sample"
+		},
+		{
+			"name": "nextjs-sample",
+			"path": "samples/msal-react-samples/nextjs-sample"
+		},
+		{
+			"name": "b2c-sample",
+			"path": "samples/msal-react-samples/b2c-sample"
+		},
+		{
+			"name": "auth-code-with-certs",
+			"path": "samples/msal-node-samples/auth-code-with-certs"
+		},
+		{
+			"name": "username-password-cca",
+			"path": "samples/msal-node-samples/username-password-cca"
+		},
+		{
+			"name": "auth-code-key-vault",
+			"path": "samples/msal-node-samples/auth-code-key-vault"
+		},
+		{
+			"name": "username-password",
+			"path": "samples/msal-node-samples/username-password"
+		},
+		{
+			"name": "silent-flow",
+			"path": "samples/msal-node-samples/silent-flow"
+		},
+		{
+			"name": "on-behalf-of-distributed-cache",
+			"path": "samples/msal-node-samples/on-behalf-of-distributed-cache"
+		},
+		{
+			"name": "web-api",
+			"path": "samples/msal-node-samples/on-behalf-of/web-api"
+		},
+		{
+			"name": "web-app",
+			"path": "samples/msal-node-samples/on-behalf-of/web-app"
+		},
+		{
+			"name": "ElectronSystemBrowserTestApp",
+			"path": "samples/msal-node-samples/ElectronSystemBrowserTestApp"
+		},
+		{
+			"name": "refresh-token",
+			"path": "samples/msal-node-samples/refresh-token"
+		},
+		{
+			"name": "ElectronTestApp",
+			"path": "samples/msal-node-samples/ElectronTestApp"
+		},
+		{
+			"name": "on-behalf-of",
+			"path": "samples/msal-node-samples/on-behalf-of"
+		},
+		{
+			"name": "client-credentials",
+			"path": "samples/msal-node-samples/client-credentials"
+		},
+		{
+			"name": "device-code",
+			"path": "samples/msal-node-samples/device-code"
+		},
+		{
+			"name": "custom-INetworkModule-and-network-tracing",
+			"path": "samples/msal-node-samples/custom-INetworkModule-and-network-tracing"
+		},
+		{
+			"name": "b2c-user-flows",
+			"path": "samples/msal-node-samples/b2c-user-flows"
+		},
+		{
+			"name": "client-credentials-distributed-cache",
+			"path": "samples/msal-node-samples/client-credentials-distributed-cache"
+		},
+		{
+			"name": "auth-code-pkce",
+			"path": "samples/msal-node-samples/auth-code-pkce"
+		},
+		{
+			"name": "auth-code-distributed-cache",
+			"path": "samples/msal-node-samples/auth-code-distributed-cache"
+		},
+		{
+			"name": "auth-code-cli-app",
+			"path": "samples/msal-node-samples/auth-code-cli-app"
+		},
+		{
+			"name": "auth-code-cli-brokered-app",
+			"path": "samples/msal-node-samples/auth-code-cli-brokered-app"
+		},
+		{
+			"name": "auth-code",
+			"path": "samples/msal-node-samples/auth-code"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"**/build/*.yml": "azure-pipelines",
+			"*.json": "jsonc"
+		},
+		"jest.disabledWorkspaceFolders": [
+			"connector-microsoft-authentication-library",
+			"eslint-config-msal",
+			"msal-common",
+			"msal-browser",
+			"msal-node",
+			"msal-angular",
+			"msal-react",
+			"msal-node-extensions",
+			"e2eTestUtils",
+			"VanillaJSTestApp2.0",
+			"TypescriptTestApp2.0",
+			"OfficeAddin",
+			"TestingSample",
+			"vue3-sample-app",
+			"HybridSample",
+			"angular15-sample-app",
+			"angular-standalone-sample",
+			"angular-b2c-sample-app",
+			"angular16-sample-app",
+			"gatsby-sample",
+			"typescript-sample",
+			"react-router-sample",
+			"nextjs-sample",
+			"b2c-sample",
+			"auth-code-with-certs",
+			"username-password-cca",
+			"auth-code-key-vault",
+			"username-password",
+			"silent-flow",
+			"on-behalf-of-distributed-cache",
+			"web-api",
+			"web-app",
+			"ElectronSystemBrowserTestApp",
+			"refresh-token",
+			"ElectronTestApp",
+			"on-behalf-of",
+			"client-credentials",
+			"device-code",
+			"custom-INetworkModule-and-network-tracing",
+			"b2c-user-flows",
+			"client-credentials-distributed-cache",
+			"auth-code-pkce",
+			"auth-code-distributed-cache",
+			"auth-code-cli-app",
+			"auth-code-cli-brokered-app",
+			"auth-code"
+		]
+	}
+}
